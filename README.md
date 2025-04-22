@@ -1,3 +1,4 @@
 # first-Repo
-This is my first project by kanchan shende
+This is my first project
+by kanchan shende
 
